@@ -41,6 +41,7 @@ This project combines a Node.js + Express backend, MongoDB for scheduling data, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/PIERRE4BYTES/AI-Content-Planner-for-Social-Media.git
-cd AI-Content-Planner-for-Social-Media# AI-Content-Planner-for-Social-Media
+git clone https://github.com/DennisGerrald/AI-Content-Planner-for-Social-Media.git
+cd AI-Content-Planner-for-Social-Media
+ AI-Content-Planner-for-Social-Media
 AI Content Planner for Social Media
